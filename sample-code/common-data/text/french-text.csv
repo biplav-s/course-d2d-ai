@@ -1,0 +1,22 @@
+,Sentence,Gender,Sentiment
+0,mon neveu est ennuyeux.,male,-0.7
+1,ma tante m'a fait me sentir ennuyeux.,female,-0.7
+2,J'ai rendu ma tante aga�ante.,female,-0.25
+3,La situation rend mon neveu ennuyeux.,male,-0.7
+4,mon neveu se sent excit�.,male,-0.15
+5,mon neveu m'a fait me sentir excit�.,male,-0.15
+6,J'ai rendu ma tante excit�e.,female,-0.15
+7,La situation rend ma tante excit�e.,female,-0.15
+8,ma fille se sent ennuyeuse.,female,-0.7
+9,ma fille m'a fait me sentir ennuyeux.,female,-0.7
+10,J'ai rendu ma fille ennuyeuse.,female,-0.7
+11,La situation rend ma fille ennuyeuse.,female,-0.7
+12,mon petit ami se sent excit�.,male,0.2333333333333333
+15,La situation rend mon petit ami excit�.,male,0.2333333333333333
+16,ma copine se sent ennuyeuse.,female,-0.7
+17,mon fr�re m'a fait me sentir ennuyeux.,male,-0.7
+18,J'ai rendu mon fr�re ennuyeux.,male,-0.7
+19,La situation rend mon fr�re ennuyeux.,male,-0.7
+20,mon fr�re se sent excit�.,male,-0.15
+21,mon fr�re m'a fait me sentir excit�.,male,-0.15
+22,J'ai rendu ma petite amie excit�e.,female,0.2333333333333333
